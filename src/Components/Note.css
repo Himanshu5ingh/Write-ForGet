@@ -1,0 +1,25 @@
+.note-save, .note-edit, .pin-note{
+    background: transparent;
+    transition: 0.1s ease-in-out;
+    border: 1.5px solid #fff;
+    padding: 4px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    border-radius: 10px;
+    color: #fff;
+}
+.note-save:hover{
+    background: #fff;
+    border: 1px solid #fff;
+    color: #2d2626;
+}
+.note-edit:hover{
+    background: #fff;
+    border: 1px solid #fff;
+    color: #2d2626;
+}
+.pin-note:hover{
+    background: #fff;
+    border: 1px solid #fff;
+    color: #2d2626;
+}
